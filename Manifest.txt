@@ -1,0 +1,3 @@
+Main-Class: LoginFrame
+Class-Path: derby.jar
+

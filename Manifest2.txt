@@ -1,0 +1,3 @@
+Main-Class: InstallDb
+Class-Path: derby.jar
+
